@@ -38,7 +38,7 @@ pip install xrpl-py cryptography
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/xrpl-wallet-manager.git
+git clone https://github.com/Thansen1980/xrpl-wallet-manager.git
 cd xrpl-wallet-manager
 ```
 
